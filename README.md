@@ -1,4 +1,4 @@
-<img src="./core/app/icon.svg" width="32px">
+ <img src="./core/app/icon.svg" width="32px">
 
 # PubPub Platform
 
